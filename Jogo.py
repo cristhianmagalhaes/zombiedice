@@ -15,3 +15,4 @@ print(jogadores[2])
 print(jogadores[3])
 
 print('mudei o código')
+print('segunda alteração de teste')
