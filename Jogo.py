@@ -13,3 +13,5 @@ print(jogadores[0])
 print(jogadores[1])
 print(jogadores[2])
 print(jogadores[3])
+
+print('mudei o código')
